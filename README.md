@@ -52,5 +52,5 @@ Executable Path and UserDir(profile path) can be seen here
 
 ## Authors
 
-- [@mukesh1234399](https://github.com/mukesh1234399)
+- [@MUKESHBOLISETTY](https://github.com/MUKESHBOLISETTY)
 
